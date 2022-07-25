@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-25T14:48:20 BDT" name="Default suite" finished-at="2022-07-25T14:48:22 BDT" duration-ms="1231">
+    <groups>
+    </groups>
+    <test started-at="2022-07-25T14:48:20 BDT" name="Default test" finished-at="2022-07-25T14:48:22 BDT" duration-ms="1231">
+      <class name="com.TestNG.Extent_With_TestNG">
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:com.TestNG.Extent_With_TestNG@14f232c4]" started-at="2022-07-25T14:48:20 BDT" name="BeforeTest" finished-at="2022-07-25T14:48:21 BDT" duration-ms="449" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method signature="pass()[pri:0, instance:com.TestNG.Extent_With_TestNG@14f232c4]" started-at="2022-07-25T14:48:21 BDT" name="pass" finished-at="2022-07-25T14:48:21 BDT" duration-ms="45" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pass -->
+        <test-method signature="skip()[pri:0, instance:com.TestNG.Extent_With_TestNG@14f232c4]" started-at="2022-07-25T14:48:21 BDT" name="skip" finished-at="2022-07-25T14:48:21 BDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skip -->
+        <test-method signature="warning()[pri:0, instance:com.TestNG.Extent_With_TestNG@14f232c4]" started-at="2022-07-25T14:48:21 BDT" name="warning" finished-at="2022-07-25T14:48:21 BDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- warning -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:com.TestNG.Extent_With_TestNG@14f232c4]" started-at="2022-07-25T14:48:21 BDT" name="AfterTest" finished-at="2022-07-25T14:48:22 BDT" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.TestNG.Extent_With_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
