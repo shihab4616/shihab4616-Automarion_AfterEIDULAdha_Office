@@ -7,7 +7,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class Browser {
 	public static WebDriver driver;
-
+ 
 	public static void main(String[] args) {
 
 		Launch_Chrome();

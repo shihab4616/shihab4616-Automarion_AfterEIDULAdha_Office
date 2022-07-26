@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestNG.Orange_HRM_Login">
+      <class name="com.IMIKROF_With_TestNG.POMIS_1">
         <methods>
           <include name="AfterTest"/>
-          <include name="Login_TC_001"/>
-          <include name="NavigateToMyInfo"/>
+          <include name="main"/>
+          <include name="POMIS2_TC_001"/>
+          <include name="BeforeTest"/>
         </methods>
-      </class> <!-- com.TestNG.Orange_HRM_Login -->
+      </class> <!-- com.IMIKROF_With_TestNG.POMIS_1 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

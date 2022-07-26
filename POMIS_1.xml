@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="This case for Pomis-1">
+	<test name="This TestNG for First ">
+		<classes>
+			<class name="com.IMIKROF_With_TestNG.POMIS_1" />
+		</classes>
+	</test>
+	<test name="This TestNG for Second ">
+		<classes>
+			<class name="com.IMIKROF_With_TestNG.POMIS_1" />
+		</classes>
+	</test>
+</suite> 
